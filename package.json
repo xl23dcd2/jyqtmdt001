@@ -1,6 +1,6 @@
 {
-  "name": "tenyun",
-  "version": "0.10.0",
+  "name": "jyqtmdt001",
+  "version": "0.10.1",
   "description": "Promise based and chained Tencent Cloud OpenAPI client for NodeJS",
   "main": "index.js",
   "types": "types/index.d.ts",
@@ -8,11 +8,11 @@
   "author": "James ZHANG",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/TheNorthMemory/tenyun/issues"
+    "url": "https://github.com/xl23dcd2/jyqtmdt001/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/TheNorthMemory/tenyun.git"
+    "url": "git+https://github.com/xl23dcd2/jyqtmdt001.git"
   },
   "files": [
     "index.js",
